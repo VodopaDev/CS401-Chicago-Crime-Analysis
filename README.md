@@ -16,3 +16,4 @@
 * (a bit vague) Analysis of the violations' comments.
 * How much does inspection's frequency depends on previous pass/fail results.
 * Are there some restaurant that "escape" food inspections?
+* Compare rodent-related violation to [Chicago's rodent invasion](https://southsideweekly.com/i-smell-a-rat/)
