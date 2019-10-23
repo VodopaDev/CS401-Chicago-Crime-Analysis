@@ -17,4 +17,4 @@
 * How much does inspection's frequency depends on previous pass/fail results.
 * Are there some restaurants that "escape" food inspections?
 * Compare rodent-related violations to [Chicago's rodent invasion](https://southsideweekly.com/i-smell-a-rat/)
-* See if there was any law (from the USA, IL or Chicage) that may have influenced the result of inspections
+* See if there was any law (from the USA, IL or Chicago) that may have influenced the result of inspections
