@@ -12,7 +12,7 @@
 ### Ideas:
 
 * Investigate what are the most common reasons to fail an inspection and the weight of them in the verdict.
-* Are violations related to location (ie touristic vs residentential, old vs new district, rich vs poor)? This can be visualized with a (pretty) map thanks to the latitude/longitude.
+* Are violations related to location (ie touristic vs residentential, old vs new district, rich vs poor)? This can be visualized with a (pretty) map thanks to the latitude/longitude and additional data ([wealth](https://www.chicagobusiness.com/static/section/chicagos-wealth-divide.html), [zoning](https://gisapps.chicago.gov/ZoningMapWeb/?liab=1&config=zoning)).
 * Compare how franchises (Subway, Macdo, ...) differ from "normal restaurants".
 * (a bit vague) Analysis of the violations' comments.
 * How much does inspection's frequency depends on previous pass/fail results.
