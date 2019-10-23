@@ -3,7 +3,8 @@
 Cleaning:
 
 * Remove useless columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (ie State and City columns only contains IL and CHICAGO respectively).
-* Clean shop names to group for easier grouping.
+* Clean shop names for easier grouping.
+* Flatten the violations.
 
 Ideas:
 
