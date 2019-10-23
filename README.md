@@ -1,6 +1,7 @@
 # Adata-project2  
 [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv)  
 [Chicago Food Inspection WebSite](https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_restaurants/svcs/food_protection_program.html)  
+[Food Code rules](https://www.chicago.gov/content/dam/city/depts/dol/rulesandregs/Food%20Code_Rules_02_01_2019.pdf)  
 
 ### Cleaning:
 
