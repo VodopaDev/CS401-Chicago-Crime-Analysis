@@ -1,12 +1,14 @@
-# Adata-project2
+# Adata-project2  
+[Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv)  
+[Chicago Food Inspection WebSite](https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_restaurants/svcs/food_protection_program.html)  
 
-Cleaning:
+### Cleaning:
 
 * Remove useless columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (ie State and City columns only contains IL and CHICAGO respectively).
 * Clean shop names for easier grouping.
 * Flatten the violations.
 
-Ideas:
+### Ideas:
 
 * Investigate what are the most common reasons to fail an inspection and the weight of them in the verdict.
 * Are violations related to location (ie touristic vs residentential, old vs new district, rich vs poor)? This can be visualized with a (pretty) map thanks to the latitude/longitude.
