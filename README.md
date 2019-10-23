@@ -11,3 +11,4 @@ Ideas:
 * Are violations related to location (ie touristic vs residentential, old vs new district, rich vs poor)? This can be visualized with a (pretty) map thanks to the latitude/longitude.
 * Compare how franchises (Subway, Macdo, ...) differ from "normal restaurant".
 * (a bit vague) Analysis of the violations' comments.
+* How much does inspection's frequency depends on previous pass/fail results.
