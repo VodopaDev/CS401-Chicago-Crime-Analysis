@@ -23,18 +23,14 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 
 # Dataset
 We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset.  
-* Remove useless columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (ie State and City columns only contains IL and CHICAGO respectively).
-* Clean shop names for easier grouping.
-* Flatten the violations.  
+* Remove useless columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (State column only contains IL).
+* Normalize shop names by removing numbers (ie WALGREENS #10771 -> WALGREENS) for easier grouping of licensed stores.
+* Flatten/eplode the violations after parsing them.
+* Add a distric or community area column to have new means of grouping. This can be done using the Chicago geospatial data from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
-
-# Adata-project2  
-[Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv)  
-[Chicago Food Inspection WebSite](https://www.chicago.gov/city/en/depts/cdph/provdrs/healthy_restaurants/svcs/food_protection_program.html)  
-[Food Code rules](https://www.chicago.gov/content/dam/city/depts/dol/rulesandregs/Food%20Code_Rules_02_01_2019.pdf)  
+Add here some questions you have for us, in general or project-specific. 
