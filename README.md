@@ -14,19 +14,19 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 * See if there was any law (from the USA, IL or Chicago) that may have influenced the result of inspections
 
 * Analysis on the different 'violations':
-* - Which violations are the most common ?
-* - Are there locations/periods where a certain type of violation is more common ?
+- Which violations are the most common ?
+- Are there locations/periods where a certain type of violation is more common ?
 
 * Construct an interactive map showing the failed/passed inspections over time (with a scroll bar for example). Same for the risk levels can be done.
 * Construct some rankings of the 'restaurants' based on different rules.
 * Are the 'out of business' restaurants more likely to have failed inspections in the past ?
 
 # Dataset
-We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset.  
+We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset. For our analysis, it requires some modifications:
 * Remove useless columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (State column only contains IL).
 * Normalize shop names by removing numbers (ie WALGREENS #10771 -> WALGREENS) for easier grouping of licensed stores.
-* Flatten/eplode the violations after parsing them.
-* Add a distric or community area column to have new means of grouping. This can be done using the Chicago geospatial data from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).
+* Flatten/explode the violations after parsing them.
+* Add a distric (and/or community area and/or ward) column to have new means of grouping. This can be done using the Chicago geospatial data from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 # A list of internal milestones up until project milestone 2
