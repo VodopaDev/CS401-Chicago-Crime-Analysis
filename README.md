@@ -10,7 +10,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 * Does [Chicago's rodent invasion](https://southsideweekly.com/i-smell-a-rat/) influence the number of rodent-related violations?
 * Which violations are the most common (in general, by period of the year or location)?
 * Are violations related to location (ie touristic vs residentential, old vs new district, rich vs poor)?
-* Can we do rankings of the restaurants based on some (still not found) rules.
+* Can we do rankings of the restaurants based on some (still not found) rules?
 * Are the 'out of business' restaurants more likely to have failed inspections in the past?
 
 # Dataset
