@@ -1,10 +1,9 @@
-# Title
+# Chicago Food Inspection
 
 # Abstract
-Everybody wants to enjoy a meal without having to worry about health hazards. From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if we won't share our plate with a rat because we went to eat a kebab near Chicago's shore on a nice Summer day or maybe if going away from touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh food.  
+Everybody wants to enjoy a meal without having to worry about health hazards.  
+From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if going away from touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we may have a plate with already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice Summer day. 
 Providing the consumers tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork is the main motivation behind this project. 
-
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
 # Research questions
 * What are the most common violation to fail an inspection and the weight of them in the verdict?
@@ -24,8 +23,6 @@ We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/c
 * Add a distric (and/or community area and/or ward) column to have new means of grouping. This can be done using the Chicago geospatial data in Geojson from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).  
   
 Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
-  
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
