@@ -20,7 +20,7 @@ We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/c
 * Flatten/explode the violations after parsing them.
 * Add a distric (and/or community area and/or ward) column to have new means of grouping. This can be done using the Chicago geospatial data in Geojson from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).  
   
-Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. Same for the risk levels can be done.
+Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
   
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
