@@ -1,16 +1,19 @@
 # Title
 
 # Abstract
+Everybody wants to enjoy a meal without having to worry about health hazards. From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if we won't share our plate with a rat because we went to eat a kebab near Chicago's shore on a nice Summer day or maybe if going away from touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh food.  
+Providing the consumers tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork is the main motivation behind this project. 
+
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
 # Research questions
-* What are the most common reasons to fail an inspection and the weight of them in the verdict?
+* What are the most common violation to fail an inspection and the weight of them in the verdict?
 * How franchises (Subway, MacDo, ...) differ from "normal restaurants"?
 * How much does inspection's frequency depends on previous pass/fail results.
 * Does [Chicago's rodent invasion](https://southsideweekly.com/i-smell-a-rat/) influence the number of rodent-related violations?
 * Which violations are the most common (in general, by period of the year or location)?
-* Are violations related to location (ie touristic vs residentential, old vs new district, rich vs poor)?
-* Can we do rankings of the restaurants based on some (still not found) rules?
+* Are violations related to location (ie touristic vs residentential, old vs new district)?
+* Can we rank restaurants based on some (still not found) rules?
 * Are the 'out of business' restaurants more likely to have failed inspections in the past?
 
 # Dataset
@@ -27,5 +30,5 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
-# Questions for TAa
+# Questions for TA
 Add here some questions you have for us, in general or project-specific. 
