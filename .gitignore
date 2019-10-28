@@ -1,2 +1,5 @@
 # keep only the base resources folder
 resources/*.csv
+
+# remove jupyter notebooks
+.ipynb_checkpoints
