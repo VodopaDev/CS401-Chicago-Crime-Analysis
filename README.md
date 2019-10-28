@@ -20,7 +20,10 @@ We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/c
 * Remove columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (State column only contains IL).
 * Normalize shop names by removing numbers (ie WALGREENS #10771 -> WALGREENS) for easier grouping of licensed stores.
 * Flatten/explode the violations after parsing them.
-* Add a distric (and/or community area and/or ward) column to have new means of grouping. This can be done using the Chicago geospatial data in Geojson from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).  
+* Add a district (and/or community area and/or ward) column to have new means of grouping. This can be done using the Chicago geospatial data in Geojson from [here](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Neighborhoods/bbvz-uum9).  
+  
+[See this for how to find to which polygon a point belong](https://stackoverflow.com/questions/20776205/point-in-polygon-with-geojson-in-python).  
+It will be useful to create our district/ward/area columns from the Chicago's Geojson.  
   
 Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
 

@@ -1,0 +1,3 @@
+# keep only the base resources folder
+resources/*
+!resources/.gitkeep 
