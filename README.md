@@ -25,7 +25,27 @@ We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/c
 Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
+First week:
+* Download the dataset and initialise the environment 
+* remove the columns that ar empty or redundant. (useless column)
+* Normalize shop names by removing numbers
+* Flatten/explode the violations after parsing them
+* add a distric column
+Second week:
+* Make the first analysis with histograms
+* Implement the aggregation to plot median,sum, mean, ...
+Third week:
+* Go deeper in the analysis
+* Use statistical tools to show important result (correlation, ... )
+* Begin to make conclusions about what we found
+* Make sure that the stats ar relevant
+* Test the hypothesis (p-values)
+Fourth week:
+* Finalize the conclusions and add comments where needed
+* Tidy up the notebook
+* Clean the plots, make them conclusive, add error and incertainty, ...
+* Write a final conclusion
+
 
 # Questions for TA
 Add here some questions you have for us, in general or project-specific. 
