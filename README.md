@@ -2,8 +2,8 @@
 
 ## Abstract
 Everybody wants to enjoy a meal without having to worry about health hazards.  
-From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if going away from touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we may have a plate with already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice Summer day. 
-Providing the consumers tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork is the main motivation behind this project. 
+From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if avoiding touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we would have a dish already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice summer day. 
+Providing consumers with tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork. This is the main motivation behind our project. 
 
 ## Research questions
 * What are the most common violation to fail an inspection and the weight of them in the verdict?
@@ -27,13 +27,13 @@ It will be useful to create our district/ward/area columns from the Chicago's Ge
   
 Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
 
-## A list of internal milestones up until project milestone 2  
+## An approximate list of intermediate milestones  
   
 First week:  
 * Download the dataset and initialise the environment  
-* Remove the columns that ar empty or redundant. (useless column)  
+* Remove the columns that are empty or redundant. (useless column)  
 * Normalize shop names by removing numbers  
-* Flatten/explode the violations after parsing them  
+* Parse and explode/flatten the violations  
 * Add a distric column
 
 Second week:  
@@ -48,10 +48,11 @@ Third week:
 * Test the hypothesis (p-values)  
   
 Fourth week:  
-* Finalize the conclusions and add comments where it is needed  
+* Finalize the analysis and add textual descriptions  
 * Tidy up the notebook  
 * Clean the plots, make them conclusive, add error and incertainty, ...  
 * Write a final conclusion  
   
 ## Questions for TA
-Add here some questions you have for us, in general or project-specific. 
+* Is our project ambitious enough ? Too ambitious ?
+* Do you have bad experiences from a Chicago's restaurant to share with us ?
