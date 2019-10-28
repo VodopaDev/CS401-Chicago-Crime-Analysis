@@ -31,15 +31,18 @@ First week:
 * Normalize shop names by removing numbers
 * Flatten/explode the violations after parsing them
 * add a distric column
+
 Second week:
 * Make the first analysis with histograms
 * Implement the aggregation to plot median,sum, mean, ...
+
 Third week:
 * Go deeper in the analysis
 * Use statistical tools to show important result (correlation, ... )
 * Begin to make conclusions about what we found
 * Make sure that the stats ar relevant
 * Test the hypothesis (p-values)
+
 Fourth week:
 * Finalize the conclusions and add comments where needed
 * Tidy up the notebook
