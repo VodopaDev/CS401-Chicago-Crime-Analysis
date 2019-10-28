@@ -14,6 +14,7 @@ Providing consumers with tools to verify the sanitization of a food-related shop
 * Are violations related to location (ie touristic vs residentential, old vs new district)?
 * Can we rank restaurants based on some (still not found) rules?
 * Are the 'out of business' restaurants more likely to have failed inspections in the past?
+* Which type of facility has higher rate of failed inspection?
 
 ## Dataset
 We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset. For our analysis, it requires some modifications:
