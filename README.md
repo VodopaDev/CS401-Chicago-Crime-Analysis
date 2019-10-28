@@ -56,4 +56,6 @@ Fourth week:
   
 ## Questions for TA
 * Is our project ambitious enough ? Too ambitious ?
+* Does 'providing consumers with safer food-related information' explains some aspect of 'social good' enough? Or is it desirable to ask further and deeper question?
 * Do you have bad experiences from a Chicago's restaurant to share with us ?
+
