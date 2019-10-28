@@ -1,11 +1,11 @@
 # Chicago Food Inspection
 
-# Abstract
+## Abstract
 Everybody wants to enjoy a meal without having to worry about health hazards.  
 From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if going away from touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we may have a plate with already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice Summer day. 
 Providing the consumers tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork is the main motivation behind this project. 
 
-# Research questions
+## Research questions
 * What are the most common violation to fail an inspection and the weight of them in the verdict?
 * How franchises (Subway, MacDo, ...) differ from "normal restaurants"?
 * How much does inspection's frequency depends on previous pass/fail results.
@@ -15,7 +15,7 @@ Providing the consumers tools to verify the sanitization of a food-related shop 
 * Can we rank restaurants based on some (still not found) rules?
 * Are the 'out of business' restaurants more likely to have failed inspections in the past?
 
-# Dataset
+## Dataset
 We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset. For our analysis, it requires some modifications:
 * Remove columns that are empty (Community Areas, Zip codes, Historical Wards) or redundant (State column only contains IL).
 * Normalize shop names by removing numbers (ie WALGREENS #10771 -> WALGREENS) for easier grouping of licensed stores.
@@ -24,7 +24,7 @@ We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/c
   
 Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
 
-# A list of internal milestones up until project milestone 2  
+## A list of internal milestones up until project milestone 2  
   
 First week:  
 * Download the dataset and initialise the environment  
@@ -50,5 +50,5 @@ Fourth week:
 * Clean the plots, make them conclusive, add error and incertainty, ...  
 * Write a final conclusion  
   
-# Questions for TA
+## Questions for TA
 Add here some questions you have for us, in general or project-specific. 
