@@ -1,5 +1,6 @@
 # keep only the base resources folder
 resources/*.csv
+resources/food-inspections-part*
 
 # remove jupyter notebooks
 .ipynb_checkpoints
