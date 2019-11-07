@@ -5,16 +5,10 @@ Everybody wants to enjoy a meal without having to worry about health hazards.
 From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if avoiding touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we would have a dish already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice summer day. 
 Providing consumers with tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork. This is the main motivation behind our project. 
 
-## Research questions
-* What are the most common violation to fail an inspection and the weight of them in the verdict?
-* How franchises (Subway, MacDo, ...) differ from "normal restaurants"?
-* How much does inspection's frequency depends on previous pass/fail results.
+## (Main) Research questions
 * Does [Chicago's rodent invasion](https://southsideweekly.com/i-smell-a-rat/) influence the number of rodent-related violations?
 * Which violations are the most common (in general, by period of the year or location)?
 * Are violations related to location (ie touristic vs residentential, old vs new district)?
-* Can we rank restaurants based on some (still not found) rules?
-* Are the 'out of business' restaurants more likely to have failed inspections in the past?
-* Which type of facility has higher rate of failed inspection?
 
 ## Dataset
 We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset. For our analysis, it requires some modifications:
