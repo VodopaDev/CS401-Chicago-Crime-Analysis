@@ -20,7 +20,7 @@ We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/c
 [See this for how to find to which polygon a point belong](https://stackoverflow.com/questions/20776205/point-in-polygon-with-geojson-in-python).  
 It will be useful to create our district/ward/area columns from the Chicago's Geojson.  
   
-Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections over time. We expect to find a lot of differences between districts 
+Displaying our results will mostly be achieved with maps. For example an interactive map showing the failed/passed inspections depending on the localization. We expect to find a lot of differences between districts and communities.
 
 ## An approximate list of intermediate milestones  
   
@@ -37,16 +37,15 @@ Second week:
   
 Third week:  
 * Go deeper in the analysis  
-* Use statistical tools to show important result (correlation, ... )  
-* Begin to make conclusions about what we found  
-* Make sure that the stats are relevant  
-* Test the hypothesis (p-values)  
+* Use statistical tools to show important result (correlation, boxplot, ... )  
+* Begin to make conclusions about what we found. 
+* Make sure that the stats are relevant.  
   
 Fourth week:  
-* Finalize the analysis and add textual descriptions  
-* Tidy up the notebook  
+* Finalize the analysis and add textual descriptions.  
+* Tidy up the notebook.  
 * Clean the plots, make them conclusive, add error and incertainty, ...  
-* Write a final conclusion  
+* Write a final conclusion.  
   
 ## Questions for TA
 * Is our project ambitious enough ? Too ambitious ?
