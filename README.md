@@ -1,6 +1,10 @@
 # Chicago Food Inspection
 
-# Milestone 1
+# Milestone 2  
+
+The notebook to look at is milestone2.ipynb!
+
+# Milestone 1  
 
 ## Abstract
 Everybody wants to enjoy a meal without having to worry about health hazards.  
