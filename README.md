@@ -1,5 +1,7 @@
 # Chicago Food Inspection
 
+# Milestone 1
+
 ## Abstract
 Everybody wants to enjoy a meal without having to worry about health hazards.  
 From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if avoiding touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we would have a dish already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice summer day. 
