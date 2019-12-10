@@ -1,46 +1,46 @@
-Violation ID,Meaning,Category
-1,Suspicious source,Food safety
-2,No adequate food storage,Food safety
-3,Food storage temperature problems,Food safety
-4,Contamination,Food safety
-5,Disease among the staff,Hygiene
-6,No hand washing among the staff,Hygiene
-7,Drinking ustensils not cleaned with hot temperature,Hygiene
-8,Equipment and ustensils not properly cleaned (Bactericidal treatment + hot water),Hygiene
-9,No supply of hot and cold water under pressure,Equipment
-10,No adequate sewage and waste water disposal facilities,Equipment
-11,No adequate and convenient toilet facilities,Equipment
-12,No adequate and convenient hand washing facilities,Equipment
-13,"Infestations (rodents, insects, etc)",Hygiene
-14,No correction of a serious violation since last inspection,Recidivism
-15,Re-served food,Food safety
-16,Food not properly protected against contamination,Food safety
-17,Thawing frozen food storage temperature problems,Food safety
-18,No measures against infestations,Hygiene
-19,Outside garbage storage not clean,Hygiene
-20,Garbage and rubbish containing food wastes not stored cleanly,Hygiene
-21,No certified food service manager,Other
-22,Dishwashing machines do not maintain proper water pressure,Equipment
-23,Dishes and other ustensils not cleaned (gross food particles and other soil) before washing,Hygiene
-24,Dishwashing machines not of a type that complies with all requirements,Equipment
-25,Poisonous and toxic materials used in dangerous ways,Food safety
-26,Not enough toilets or not properly designed,Equipment
-27,Toilets are not clean or not in good repair,Hygiene
-28,No Food Inspection Report Summary is displayed,Other
-29,No correction of a minor violation since last inspection,Recidivism
-30,Food not stored in original or properly labeled containers,Other
-31,Containers or utensils are not properly protected against contamination,Hygiene
-32,Equipment or utensils not easily cleanable or not durable/in good repair,Equipment
-33,Equipment or ustensils not cleaned after each use,Hygiene
-34,Floors are not clean,Hygiene
-35,Walls or ceilings are not clean or not in good repair,Hygiene
-36,Not enough light where food is prepared / No protection against broken glass,Equipment
-37,Toilets are not enclosed or not ventiled to the outside / Food smells in living rooms,Equipment
-38,Flow of air from kitchen not discharged above the roofline / Plumbing fixtures are not adequate,Equipment
-39,"Soiled and clean linens, coats, and aprons not properly stored",Equipment
-40,No thermometers for potentially hazardous foods,Equipment
-41,Offensive odors / Cleaning equipment not stored away,Hygiene
-42,Employees are not clean (hair or garments) / Ice ustensils are used by customers,Hygiene
-43,Ice ustensils or containers are not properly protected agains contamination,Food safety
-44,Traffic of unnecessary persons through the food preparation or the utensil washing areas,Other
-70,Smoking is not prohibited in public places,Hygiene
+Violation ID,Meaning,Category,Severity
+1,Suspicious source,Food safety,High
+2,No adequate food storage,Food safety,High
+3,Food storage temperature problems,Food safety,High
+4,Contamination,Food safety,High
+5,Disease among the staff,Hygiene,High
+6,No hand washing among the staff,Hygiene,High
+7,Drinking ustensils not cleaned with hot temperature,Hygiene,High
+8,Equipment and ustensils not properly cleaned (Bactericidal treatment + hot water),Hygiene,High
+9,No supply of hot and cold water under pressure,Equipment,High
+10,No adequate sewage and waste water disposal facilities,Equipment,High
+11,No adequate and convenient toilet facilities,Equipment,High
+12,No adequate and convenient hand washing facilities,Equipment,High
+13,"Infestations (rodents, insects, etc)",Hygiene,High
+14,No correction of a serious violation since last inspection,Recidivism,High
+15,Re-served food,Food safety,Medium
+16,Food not properly protected against contamination,Food safety,Medium
+17,Thawing frozen food storage temperature problems,Food safety,Medium
+18,No measures against infestations,Hygiene,Medium
+19,Outside garbage storage not clean,Hygiene,Medium
+20,Garbage and rubbish containing food wastes not stored cleanly,Hygiene,Medium
+21,No certified food service manager,Other,Medium
+22,Dishwashing machines do not maintain proper water pressure,Equipment,Medium
+23,Dishes and other ustensils not cleaned (gross food particles and other soil) before washing,Hygiene,Medium
+24,Dishwashing machines not of a type that complies with all requirements,Equipment,Medium
+25,Poisonous and toxic materials used in dangerous ways,Food safety,Medium
+26,Not enough toilets or not properly designed,Equipment,Medium
+27,Toilets are not clean or not in good repair,Hygiene,Medium
+28,No Food Inspection Report Summary is displayed,Other,Medium
+29,No correction of a minor violation since last inspection,Recidivism,Medium
+30,Food not stored in original or properly labeled containers,Other,Small
+31,Containers or utensils are not properly protected against contamination,Hygiene,Small
+32,Equipment or utensils not easily cleanable or not durable/in good repair,Equipment,Small
+33,Equipment or ustensils not cleaned after each use,Hygiene,Small
+34,Floors are not clean,Hygiene,Small
+35,Walls or ceilings are not clean or not in good repair,Hygiene,Small
+36,Not enough light where food is prepared / No protection against broken glass,Equipment,Small
+37,Toilets are not enclosed or not ventiled to the outside / Food smells in living rooms,Equipment,Small
+38,Flow of air from kitchen not discharged above the roofline / Plumbing fixtures are not adequate,Equipment,Small
+39,"Soiled and clean linens, coats, and aprons not properly stored",Equipment,Small
+40,No thermometers for potentially hazardous foods,Equipment,Small
+41,Offensive odors / Cleaning equipment not stored away,Hygiene,Small
+42,Employees are not clean (hair or garments) / Ice ustensils are used by customers,Hygiene,Small
+43,Ice ustensils or containers are not properly protected agains contamination,Food safety,Small
+44,Traffic of unnecessary persons through the food preparation or the utensil washing areas,Other,Small
+70,Smoking is not prohibited in public places,Hygiene,Small
