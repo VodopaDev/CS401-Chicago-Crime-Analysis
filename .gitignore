@@ -2,6 +2,7 @@
 resources/*.csv
 resources/food-inspections-part*
 resources/*.pickle
+resources/google/*.json.gz
 
 # remove jupyter notebooks
 .ipynb_checkpoints
