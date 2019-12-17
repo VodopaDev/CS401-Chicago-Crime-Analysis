@@ -12,9 +12,9 @@ From the Chicago Food Inspection dataset, we would like to know if there are som
 Providing consumers with tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork. This is the main motivation behind our project. 
 
 ## (Main) Research questions
-* Does [Chicago's rodent invasion](https://southsideweekly.com/i-smell-a-rat/) influence the number of rodent-related violations?
-* Which violations are the most common (in general, by period of the year or location)?
-* Are violations related to location (ie touristic vs residentential, old vs new district)?
+* How do the big franchises (McDonalds, KFC, etc) perform against small independents ? Are they safer ? Are there some kind of violations that are more common for them ?
+* How does the socio-economic situation of each neighborhood influences the performance of the restaurants ?
+* Among the biggest well-known franchises, which ones are safer or put more effort into increasing the quality of their services through the years ?
 
 ## Dataset
 We will be using the [Chicago Food Inspections](https://www.kaggle.com/chicago/chicago-food-inspections#food-inspections.csv) dataset. For our analysis, it requires some modifications:
