@@ -30,7 +30,7 @@ For non-franchise restaurants, there is a meaningful positive correlation betwee
 
 #### To summarize, massive franchise restaurants in Chicago not only had highest inspection rate and pass rate, it also showed relatively consistent pass rate thoughout different regions. To a total alien in Chicago, we will recommend her to visit the franchise that is already familiar to her.
 
-# Then, which franchise should I visit?
+## Then, which franchise should I visit?
 There are different types of food serve in franchise restaurants: burgers, sandwiches, pizza.. Can we tell which type of franchise is safer to eat in Chicago?
 
 ### Which type of franchise is inspected most often?
