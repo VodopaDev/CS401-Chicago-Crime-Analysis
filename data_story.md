@@ -4,26 +4,31 @@ You are a starving alien who is travelling through the universe. You had an acci
 Suddenly, you feel starvation. You need to find something to eat, somewhere that sells food. Fortunately, you can see a lot of facilities that seems to serve food. But you have no idea which place is safe to go. Bewildered, you ask Adata2 team for help.
 "I am starving. Can you tell me which restaurant to visit? All I know is that I am somewhere in Chicago. I don't really care how the food tastes, but I do care for safety."
 
-## introduction of Chicago food inspection
+## Bird's eye view on Chicago restaurants.
+
 To get the ideas of safe restaurants in Chicago, we first need to see how Chicago food inspection works for restaurants in general. How often are restaurants inspected conducted and how many of them pass? What are the main causes of failure? Are there other sociological or geological features that are correlated with certain tendancies?
 
-## Franchises vs individual Restaurants
+### Is the Wealthier the safer? 
+We now live in the world where your economic status is reflected through various sectors of your life, and the neighborhood is just one part of it. By reading this map, you can see which region of Chicago has higher median household income of its residents. But can we see the same thing in the food inspection report?
+#### Generally speaking, YES
+The correlation between the inspection pass rate and the median household income is 0.623. On the map, you can more vividly see that the inspection pass rate is lowest in the poorest region of Chicago. What a sad and obvious truth!
 
+"Hello. This is team Adata. We've got your inquiry. To eat at a safe, inspection-passing restaurant, you should go to the wealtier region of Chicago. Corresponding Zip numbers are...."
+"Hold on, Hold on! I have no idea where I am, or how to reach the wealtier place of this city. If I don't know where I stand, what will be the safest option for me?
+
+### Are franchise restaurants safer than non-franchise restaurants?
 Roughly, there are two ways of choosing a place to eat. One is eating at a franchise restaurant that is already familiar to you, the other is challenging a restaurant you have never seen before. Which will be a safer action? 
 
-### Bird's eye view: Is franchise restaurant safer than individual restaurants?
+Here is quick look at the average number of inspections and inspection pass rate of Chicago restaurants. We classified the restaurants in three groups: massive, worldwide franchises, smaller franchises, and non-franchises. Both verage inspections and pass rate are highest in massive franchise restaurants.Smaller franchises were inspectly least frequently, but their pass rate was higher than those of non-franchise restaurants
 
-Here is quick look at the average number of inspections and inspection pass rate between non-franchises (less than 5 restaurants have the identical name) and franchises. Both verage inspections and pass rate are higher in franchise restaurants, by ???????????????10%. More inspected and passed, we can say that the franchise restaurants are slightly safer the the other.
+### Is the Wealthier the safer, wherever you are?
 
-### Which restaurants are more independent of socioeconomical factors? 
-We now live in world where ecomonic conditions influence almost every sector of society, and restaurantation and neighbor environment are some examples. 
+In the previous part, we discovered that the restaurants in wealthier regions tends to be safer. Is this tendency still visible in different groups of restaurants?
 
-The inspection pass rate for non-franchise restaurants reflects the socioeconomical factor more strongly. We can see a meaningful correlation between the median household income and inspection pass rate within a same neighborhood. 
-
-
-#### To summarize, franchise restaurants in Chicago not only had themselves inspected more often than non-franchise counterparts, but also passed inspection better. Moreover, their inspection pass rate was less affected by the economical status(?) of their community, whereas the non-franchises reflected the power of having wealthy neighbor. 
+For non-franchise restaurants, there is a meaningful positive correlation between regional wealth and regional inspection pass rate. For the others, the correlation is weaker. However, the variance of regional pass rate is higher for smaller franchises. 
 
 
+#### To summarize, massive franchise restaurants in Chicago not only had highest inspection rate and pass rate, it also showed relatively consistent pass rate thoughout different regions. To a total alien in Chicago, we will recommend her to visit the franchise that is already familiar to her.
 
 # AUX
 ### Question to Jeremie
