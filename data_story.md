@@ -30,6 +30,22 @@ For non-franchise restaurants, there is a meaningful positive correlation betwee
 
 #### To summarize, massive franchise restaurants in Chicago not only had highest inspection rate and pass rate, it also showed relatively consistent pass rate thoughout different regions. To a total alien in Chicago, we will recommend her to visit the franchise that is already familiar to her.
 
+# Then, which franchise should I visit?
+There are different types of food serve in franchise restaurants: burgers, sandwiches, pizza.. Can we tell which type of franchise is safer to eat in Chicago?
+
+### Which type of franchise is inspected most often?
+First, take a look at the average number of inspection for each type of franchise. Sandwich franchises are inspected most often, more than double of the inspection frequency of pizza franchises.
+
+### Which type of franchise has highest pass rate?
+Seeing from the overall fail rate between different types of franchises, we can say sandwich franchises are the safest, and the pizza franchises are the least safest. The correlation between the inspection pass rate and the inspection frequency was -0.69. We can infer that the restaurant that is inspected more often is likely to take care of safety issues, and eventually, to pass the inspection better than its counterparts
+
+### Which violations are the main causes of inspection failure?
+Before digging the different franchises with the violations they've got, let's take a look into the main cause of inspection failure for major franchise restaurants.
+Among the violations related to the inspection failure, hygyene issue took more than half of the total violations, followed by equipment. Looking into those two violations througout different types of franchises will give us the detailed idea of which place is safer to visit.
+
+
+
+
 # AUX
 ### Question to Jeremie
 
