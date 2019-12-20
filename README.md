@@ -60,8 +60,8 @@ Fourth week:
 * Write a final conclusion.  
   
 ## Contributors
-Nicolas: Data cleaning, Analysis, Data Story
-Vincent: Analysis, Data Story 
-Haeuun: Analysis, Data Story 
+Nicolas: Data cleaning, Analysis, Data Story  
+Vincent: Analysis, Data Story  
+Haeuun: Analysis, Data Story  
 Florian : Analysis, Data Story
 
