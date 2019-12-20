@@ -59,9 +59,9 @@ Fourth week:
 * Clean the plots, make them conclusive, add error and incertainty, ...  
 * Write a final conclusion.  
   
-## Who work on what ?
-Nicolas: Cleaned the dataset and worked on the data story.  
-Vincent: Worked on the seperation between franchise and individuals.  
-Haeuun: Worked on the mapping of the statitics factors based on ZIP, Wards, ....  
-Florian : Worked on the comparison between the franchises.   
+## Contributors
+Nicolas: Data cleaning, Analysis, Data Story
+Vincent: Analysis, Data Story 
+Haeuun: Analysis, Data Story 
+Florian : Analysis, Data Story
 
