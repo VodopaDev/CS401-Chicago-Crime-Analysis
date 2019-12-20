@@ -60,8 +60,8 @@ Fourth week:
 * Write a final conclusion.  
   
 ## Who work on what ?
-Nicolas: Cleaned the dataset and worked on the data story  
-Vincent: Worked on the seperation between franchise and individuals  
+Nicolas: Cleaned the dataset and worked on the data story.  
+Vincent: Worked on the seperation between franchise and individuals.  
 Haeuun: Worked on the mapping of the statitics factors based on ZIP, Wards, ....  
-Florian : Worked on the comparison between the franchises   
+Florian : Worked on the comparison between the franchises.   
 
