@@ -1,5 +1,9 @@
 # Chicago Food Inspection
 
+# Milestone 3
+
+All the analysis used to write our datastory is in the file `milestone3.ipynb`. It is the augmented version of `milestone2.ipynb` with a new part consisting of our new analysis.
+
 # Milestone 2  
 
 The notebook to look at is milestone2.ipynb!
