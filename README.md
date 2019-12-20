@@ -6,7 +6,7 @@ All the analysis used to write our datastory is in the file `milestone3.ipynb`. 
 
 # Milestone 2  
 
-The notebook to look at is milestone2.ipynb!
+The notebook to look at is `milestone2.ipynb`.
 
 # Milestone 1  
 
@@ -14,6 +14,8 @@ The notebook to look at is milestone2.ipynb!
 Everybody wants to enjoy a meal without having to worry about health hazards.  
 From the Chicago Food Inspection dataset, we would like to know if there are some places to avoid like plague, if avoiding touristic points of interest will guarantee a meal done in a well-maintained kitchen with fresh uncontaminated food or if we would have a dish already bitten by a rat because we went to eat a kebab near Chicago's shore on a nice summer day. 
 Providing consumers with tools to verify the sanitization of a food-related shop may be an interesting addition for some restaurant bookers like TheFork. This is the main motivation behind our project. 
+
+We focus on the differences between the big franchises and the small independents. We also want to highlight which franchises we could recommand depending on different factors like the location or the type of food wished by the client.
 
 ## (Main) Research questions
 * How do the big franchises (McDonalds, KFC, etc) perform against small independents ? Are they safer ? Are there some kind of violations that are more common for them ?
