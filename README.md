@@ -1,7 +1,7 @@
 # Chicago Food Inspection
 
 # Milestone 3
-
+Link to the data story : http://Globoxx.github.io
 All the analysis used to write our datastory is in the file `milestone3.ipynb`. It is the augmented version of `milestone2.ipynb` with a new part consisting of our new analysis.
 
 # Milestone 2  
@@ -59,8 +59,9 @@ Fourth week:
 * Clean the plots, make them conclusive, add error and incertainty, ...  
 * Write a final conclusion.  
   
-## Questions for TA
-* Is our project ambitious enough ? Too ambitious ?
-* Does 'providing consumers with safer food-related information' explains some aspect of 'social good' enough? Or is it desirable to ask further and deeper question?
-* Do you have bad experiences from a Chicago's restaurant to share with us ?
+## Who work on what ?
+Nicolas: Clean the dataset and work on the data story
+Vincent: Worked on the seperation between franchise and individuals
+Haeuun: Worked on the mapping of the statitics factors based on ZIP, Wards, ....
+Florian : Work on the comparison between the franchises 
 
